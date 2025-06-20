@@ -1,0 +1,5 @@
+title: The Pub Test
+description: Honest chats about Australian life, for everyone
+baseurl: "/pubtest"
+url: "https://gazzll.github.io"
+theme: minima
